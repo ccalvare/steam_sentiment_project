@@ -103,3 +103,15 @@ margin-bottom: 50px;
     font-size: 18px;
     min-height: 52px;
 }
+
+div.tableau {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    padding-left: 240.5px;
+}
+
+.Report{
+    text-align: left;
+}

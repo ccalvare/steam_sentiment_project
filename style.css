@@ -8,7 +8,7 @@
 
 /* body background styling, padding top = the aligning of summary header */
 body {
-    background: #764aa0;
+    background: #642d97;
     padding-top: 65px;
 } 
 
@@ -45,6 +45,21 @@ h1 {
     text-align: center;
 }
 
+.text-black {
+    color: black;
+    font-weight: bold;
+
+
+}
+
+.ml-image{
+    width: 120%;
+    margin-left: -20%;
+    padding-bottom: 55px;
+    font-weight: 500;
+    /* text-align: right; */
+    margin-bottom: 20%;
+}
 
 .name {
     font-weight: bold;
@@ -134,8 +149,13 @@ left: calc(50% - 138px);
     margin-bottom: 50px;
 }
 
+a:link {
+    color: #764aa0; 
+
+}
 .game {
     color: #764aa0;
+    font-weight: bold;
     font-size: 18px;
     min-height: 52px;
 }
